@@ -29,45 +29,9 @@
 Security specialist combining **adversarial testing with hands-on software delivery**. I find vulnerabilities that automated scanners miss — business-logic flaws, access-control bypasses, and financial-workflow weaknesses — then build the systems to prevent them.
 
 - 50+ vulnerabilities responsibly disclosed across 20+ platforms
-- Delivered a paid penetration-testing audit for **Intron Health** (7 findings, 5 Critical)
+- Delivered a paid penetration-testing audit for **Intron Health**
 - Reported vulnerabilities to **Commercial Bank of Ethiopia** under their disclosure standard
 - Anti-fraud research on Ethiopian gaming & lottery platforms exploited for illicit money generation
-- Built a multi-tenant SaaS platform with two-layer tenant isolation and prompt-injection defense
-
-<br/>
-
----
-
-## Featured Work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>One-Time Security Audit — Intron Health</h3>
-      <p><b>7 findings · 5 Critical · 1 High · 1 Medium</b></p>
-      <p>Full penetration test across 18+ domains. Identified systemic IDOR exposing PII and bank details, mass assignment enabling complete account takeover, audio replay and race-condition flaws with direct financial-fraud impact.</p>
-      <p>57-page report with PoC scripts and video demonstrations. Quote from founder: <i>"He played a pivotal role in strengthening our application's resilience."</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>AI-Driven Sales Automation — NITSU Tech</h3>
-      <p><b>Multi-tenant SaaS · NestJS · Next.js · PostgreSQL · Redis/BullMQ</b></p>
-      <p>Modular-monolith platform that discovers businesses, scores sales opportunities with AI agents, drafts personalized outreach, and routes every action through a human approval gate.</p>
-      <p>Designed two-layer tenant isolation (Prisma + PostgreSQL RLS), SSRF-guarded web fetcher with IP pinning, and prompt-injection defense using closed-enum structured output schemas.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>CBE Security Vulnerability Report</h3>
-      <p><b>4 findings · 2 Critical · 1 High · 1 Medium</b></p>
-      <p>Responsible disclosure to Commercial Bank of Ethiopia under their Vulnerability Disclosure Standard Procedure. Identified SMS flooding via shared banking sender ID, persistent OTP lockout DoS, brute-force-exposed login, and user enumeration.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>EFHOI.com — Digital Healthcare Platform</h3>
-      <p><b>Node.js · Express.js · PostgreSQL · Ethio Telecom integration</b></p>
-      <p>Independently designed, developed and launched a full-stack healthcare platform from UI/UX through back-end engineering and deployment. Led technical collaboration with Ethio Telecom.</p>
-    </td>
-  </tr>
-</table>
 
 <br/>
 
@@ -121,18 +85,6 @@ Security specialist combining **adversarial testing with hands-on software deliv
 
 ---
 
-## Pinned Repositories
-
-| Repo | Description | Lang |
-|---|---|---|
-| [**A1ET-BugBounty-CTF**](https://github.com/A1ET/A1ET-BugBounty-CTF) | Bug bounty & Capture the Flag platform — Bachelor's capstone project | JavaScript |
-| [**ethio-receipt-sdk**](https://github.com/A1ET/ethio-receipt-sdk) | Type-safe Python SDK for parsing Ethiopian bank transaction receipts | Python |
-| [**MT5-Historical-Data**](https://github.com/A1ET/MT5-Historical-Data) | MetaTrader 5 historical data tools | Python |
-
-<br/>
-
----
-
 <div align="center">
   
   ## GitHub Stats
@@ -151,7 +103,5 @@ Security specialist combining **adversarial testing with hands-on software deliv
 <div align="center">
   
   <i>"Build securely. Test rigorously."</i>
-  
-  <img src="https://komarev.com/ghpvc/?username=A1ET&style=for-the-badge&color=00B3CE&label=Profile+Views" />
   
 </div>
