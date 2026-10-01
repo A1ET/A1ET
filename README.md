@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <h1>Sup 👋, I'm Kiya Abdu</h1>
+  <h1>Sup, I'm Kiya Abdu</h1>
   
   <p><b>Offensive Security & Full-Stack Developer</b></p>
   <p>Addis Ababa, Ethiopia</p>
@@ -85,20 +85,6 @@ Security specialist combining **adversarial testing with hands-on software deliv
 
 ---
 
-<div align="center">
-  
-  ## GitHub Stats
-
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=A1ET&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1ET&layout=compact&theme=tokyonight&hide_border=true" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A1ET&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
----
 
 <div align="center">
   
