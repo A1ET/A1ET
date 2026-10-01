@@ -8,8 +8,8 @@
 
   <h1>Sup 👋, I'm Kiya Abdu</h1>
   
-  <p><b>Offensive Security Specialist & Full-Stack Developer</b></p>
-  <p>🌍 Addis Ababa, Ethiopia</p>
+  <p><b>Offensive Security & Full-Stack Developer</b></p>
+  <p>Addis Ababa, Ethiopia</p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kiya-abdu)
   [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kiyaabdu)
@@ -29,7 +29,7 @@
 Security specialist combining **adversarial testing with hands-on software delivery**. I find vulnerabilities that automated scanners miss — business-logic flaws, access-control bypasses, and financial-workflow weaknesses — then build the systems to prevent them.
 
 - 50+ vulnerabilities responsibly disclosed across 20+ platforms
-- Delivered a paid penetration-testing audit for **Intron Health**
+- Delivered a paid penetration-testing audits
 - Reported vulnerabilities to **Commercial Bank of Ethiopia** under their disclosure standard
 - Anti-fraud research on Ethiopian gaming & lottery platforms exploited for illicit money generation
 
